@@ -1,0 +1,210 @@
+/**
+ * @name Orchis Theme
+ * @version 1.0.0
+ * @author stonley890
+ * @authorId 505833634134228992
+ * @description A recreation of the Orchis GTK theme.
+*/
+
+:root {
+    --font: system-ui;
+    --font-primary: system-ui;
+    --font-display: system-ui;
+    --font-headline: system-ui;
+    --macbuttons-outline-color: #5f5f5f;
+    --context-blur: 20px;
+    --version1_0_1: none;
+}
+
+.theme-dark {
+    --background-floating: #26262bb4;
+    --divider: #f7ede621;
+    --context-outline: #fff3;
+    --background-mentioned: #346dca52;
+    --background-mentioned-hover: #346dca2c;
+    --background-active: #26282b;
+    --background-notification: #3b3c3d98;
+    --background-primary: #2C2C2C;
+    --background-secondary: #242424;
+    --background-secondary-alt: #373737;
+    --background-floating: #3B3B3B;
+    --brand-experiment: #3281EA;
+    --background-tertiary: #3B3B3B;
+    --input-background: #363636;
+    --button-danger-background: #F44336;
+    --button-outline-danger-border: #F44336;
+    --home-background: var(--background-secondary);
+    --modal-background: var(--background-primary);
+    --brand-experiment-400: var(--brand-experiment);
+    --brand-experiment-500: var(--brand-experiment);
+    --brand-experiment-530: var(--brand-experiment);
+    --brand-experiment-560: #4B4B4B;
+    --brand-experiment-600: var(--brand-experiment);
+    --modal-footer-background: var(--background-secondary);
+    --primary-630: var(--background-secondary);
+    --primary-660: var(--background-secondary);
+    --primary-600: var(--background-secondary);
+    --profile-body-background-color: var(--background-secondary);
+}
+
+.theme-light {
+    --background-floating: #ececedc0;
+    --divider: #d3d3d3;
+    --context-outline: #bfbfc1;
+    --background-mentioned: #5791f448;
+    --background-mentioned-hover: #5791f428;
+    --background-active: #c4c4c4;
+    --background-notification: #26262bb4;
+}
+
+.profileCard_bd55ee {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .scrollerContainer_bf5dbd,
+.theme-dark .emptyPage__3e15d,
+.theme-dark .container__10dc7,
+.theme-dark .header__60bef {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .container__7590f {
+    background-color: var(--background-primary);
+}
+
+.button_afdfd9 {
+    border-radius: 10px;
+}
+
+.top__592a7 .item__48dda {
+    background-color: var(--background-primary);
+    border: 2px solid transparent;
+    border-radius: 10px 10px 0 0;
+    padding: 10px 10px 10px 10px;
+    font-size: small;
+    margin-right: 0px;
+}
+
+.top__592a7 .brand_ce3ecf.selected__5711d.item__48dda {
+    background-color: var(--background-primary);
+    border: 2px solid #3B3B3B;
+    border-bottom: transparent;
+    border-radius: 10px 10px 0 0;
+    padding: 10px 10px 10px 10px;
+    font-size: small;
+    margin-right: 0px;
+}
+
+.bar_e58961 {
+    height: 2px;
+}
+
+.grabber_d2868c {
+    background-color: var(--brand-experiment);
+    border: none;
+    border-radius: 50%;
+    height: 10px;
+    top: 65%;
+}
+
+.lookFilled__3dba3.select__0eb48 {
+    border-radius: 10px;
+}
+
+.input_d266e7 {
+    border-radius: 10px;
+}
+
+.bioTextArea_a108c9 {
+    border-radius: 10px;
+}
+
+.wrapper_a7e7a8 {
+    background-color: var(--background-primary);
+}
+
+.themedBackground__6b1b6 {
+    background-color: var(--background-tertiary);
+}
+
+.layerContainer_d5a653 {
+    background-color: var(--background-active);
+}
+
+.childWrapper__01b9c {
+    background-color: var(--background-tertiary);
+}
+
+.colorable_c84c4c.primaryDark__6b700, .colorable_c84c4c.primaryDark__6b700 .centerIcon__6075a {
+    border-radius: 50%;
+}
+
+.menu_dc52c6 {
+    background-color: var(--background-tertiary);
+    border-radius: 10px;
+}
+
+.scroller__750f5 {
+    padding: 4px;
+}
+
+.labelContainer_bc2861 {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    min-height: 28px;
+}
+
+.label__73cb9 {
+    font-size: 13px;
+}
+
+.item__183e8 {
+    border-radius: 4px;
+}
+
+.colorDefault__0b482 {
+    color: white;
+}
+
+.scrollableContainer__33e06 {
+    border-radius: 15px;
+}
+
+.root_a28985 {
+    border-radius: 15px;
+}
+
+.footer__89240 {
+    border-radius: 0 0 15px 15px;
+}
+
+.vc-st-modal-content input {
+    border-radius: 10px;
+}
+
+::placeholder,
+body,
+button,
+input,
+select,
+textarea {
+    font-family: var(--font), system-ui;
+}
+
+.option_b5597b:after {
+    background: none
+}
+
+.option_b5597b:hover {
+    background-color: #4B4B4B;
+}
+
+.option_b5597b:hover:after {
+    background: none;
+}
+
+.theme-dark .searchAnswer_b452e7, .theme-dark .searchFilter__118cb {
+    background-color: #4B4B4B;
+}

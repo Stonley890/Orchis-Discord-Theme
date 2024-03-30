@@ -1,6 +1,6 @@
 /**
  * @name Orchis Theme
- * @version 1.0.0
+ * @version 1.0.1
  * @author stonley890
  * @authorId 505833634134228992
  * @description A recreation of the Orchis GTK theme.
@@ -57,26 +57,26 @@
     --background-notification: #26262bb4;
 }
 
-.profileCard_bd55ee {
+.profileCard__1d74b {
     background-color: var(--background-secondary);
 }
 
-.theme-dark .scrollerContainer_bf5dbd,
-.theme-dark .emptyPage__3e15d,
-.theme-dark .container__10dc7,
-.theme-dark .header__60bef {
+.theme-dark .scrollerContainer_dda72c,
+.theme-dark .emptyPage_feb902,
+.theme-dark .container__03ec9,
+.theme-dark .header__71942 {
     background-color: var(--background-primary);
 }
 
-.theme-dark .container__7590f {
+.theme-dark .container__6b2e5 {
     background-color: var(--background-primary);
 }
 
-.button_afdfd9 {
+.button__581d0 {
     border-radius: 10px;
 }
 
-.top__592a7 .item__48dda {
+.top_fae1fa .item__48dda {
     background-color: var(--background-primary);
     border: 2px solid transparent;
     border-radius: 10px 10px 0 0;
@@ -85,7 +85,7 @@
     margin-right: 0px;
 }
 
-.top__592a7 .brand_ce3ecf.selected__5711d.item__48dda {
+.top_fae1fa .brand_ce3ecf.selected_a523ff.item__48dda {
     background-color: var(--background-primary);
     border: 2px solid #3B3B3B;
     border-bottom: transparent;
@@ -99,7 +99,7 @@
     height: 2px;
 }
 
-.grabber_d2868c {
+.grabber_e3daf3 {
     background-color: var(--brand-experiment);
     border: none;
     border-radius: 50%;
@@ -107,48 +107,48 @@
     top: 65%;
 }
 
-.lookFilled__3dba3.select__0eb48 {
+.lookFilled__9c1ef.select_fe2671 {
     border-radius: 10px;
 }
 
-.input_d266e7 {
+.input_f27786 {
     border-radius: 10px;
 }
 
-.bioTextArea_a108c9 {
+.bioTextArea_f46f71 {
     border-radius: 10px;
 }
 
-.wrapper_a7e7a8 {
+.wrapper__216eb {
     background-color: var(--background-primary);
 }
 
-.themedBackground__6b1b6 {
+.themedBackground__3a4c0 {
     background-color: var(--background-tertiary);
 }
 
-.layerContainer_d5a653 {
+.layerContainer_a2fcaa {
     background-color: var(--background-active);
 }
 
-.childWrapper__01b9c {
+.childWrapper_a6ce15 {
     background-color: var(--background-tertiary);
 }
 
-.colorable_c84c4c.primaryDark__6b700, .colorable_c84c4c.primaryDark__6b700 .centerIcon__6075a {
+.colorable__4f530.primaryDark_ec74a7, .colorable__4f530.primaryDark_ec74a7 .centerIcon_e3df23 {
     border-radius: 50%;
 }
 
-.menu_dc52c6 {
+.menu__088f7 {
     background-color: var(--background-tertiary);
     border-radius: 10px;
 }
 
-.scroller__750f5 {
+.scroller__8f066 {
     padding: 4px;
 }
 
-.labelContainer_bc2861 {
+.labelContainer__4f869 {
     padding-left: 8px;
     padding-right: 8px;
     padding-top: 1px;
@@ -156,7 +156,7 @@
     min-height: 28px;
 }
 
-.label__73cb9 {
+.label__563c3 {
     font-size: 13px;
 }
 
@@ -164,11 +164,11 @@
     border-radius: 4px;
 }
 
-.colorDefault__0b482 {
+.colorDefault_e361cf {
     color: white;
 }
 
-.scrollableContainer__33e06 {
+.scrollableContainer_ff917f {
     border-radius: 15px;
 }
 
@@ -176,7 +176,7 @@
     border-radius: 15px;
 }
 
-.footer__89240 {
+.footer_e0b400 {
     border-radius: 0 0 15px 15px;
 }
 
@@ -193,18 +193,18 @@ textarea {
     font-family: var(--font), system-ui;
 }
 
-.option_b5597b:after {
+.option__91497:after {
     background: none
 }
 
-.option_b5597b:hover {
+.option__91497:hover {
     background-color: #4B4B4B;
 }
 
-.option_b5597b:hover:after {
+.option__91497:hover:after {
     background: none;
 }
 
-.theme-dark .searchAnswer_b452e7, .theme-dark .searchFilter__118cb {
+.theme-dark .searchAnswer__2ccaf, .theme-dark .searchFilter_dbda51 {
     background-color: #4B4B4B;
 }

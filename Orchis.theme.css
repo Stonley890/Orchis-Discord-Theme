@@ -1,6 +1,6 @@
 /**
  * @name Orchis Theme
- * @version 1.0.1
+ * @version 1.0.2
  * @author stonley890
  * @authorId 505833634134228992
  * @description A recreation of the Orchis GTK theme.
@@ -57,26 +57,26 @@
     --background-notification: #26262bb4;
 }
 
-.profileCard__1d74b {
+.profileCard_c6b11b {
     background-color: var(--background-secondary);
 }
 
-.theme-dark .scrollerContainer_dda72c,
-.theme-dark .emptyPage_feb902,
-.theme-dark .container__03ec9,
-.theme-dark .header__71942 {
+.theme-dark .scrollerContainer_c6b11b,
+.theme-dark .emptyPage_c6b11b,
+.theme-dark .container_f1fd9c,
+.theme-dark .header_f1fd9c {
     background-color: var(--background-primary);
 }
 
-.theme-dark .container__6b2e5 {
+.theme-dark .container_c2efea {
     background-color: var(--background-primary);
 }
 
-.button__581d0 {
+.button_dd4f85 {
     border-radius: 10px;
 }
 
-.top_fae1fa .item__48dda {
+.top_a0 .item_a0 {
     background-color: var(--background-primary);
     border: 2px solid transparent;
     border-radius: 10px 10px 0 0;
@@ -85,7 +85,7 @@
     margin-right: 0px;
 }
 
-.top_fae1fa .brand_ce3ecf.selected_a523ff.item__48dda {
+.top_a0 .brand_a0.selected_a0.item_a0 {
     background-color: var(--background-primary);
     border: 2px solid #3B3B3B;
     border-bottom: transparent;
@@ -95,11 +95,11 @@
     margin-right: 0px;
 }
 
-.bar_e58961 {
+.bar_c7a159 {
     height: 2px;
 }
 
-.grabber_e3daf3 {
+.grabber_c7a159 {
     background-color: var(--brand-experiment);
     border: none;
     border-radius: 50%;
@@ -107,27 +107,27 @@
     top: 65%;
 }
 
-.lookFilled__9c1ef.select_fe2671 {
+.lookFilled_f6639d.select_f6639d {
     border-radius: 10px;
 }
 
-.input_f27786 {
+.input_f8bc55 {
     border-radius: 10px;
 }
 
-.bioTextArea_f46f71 {
+.bioTextArea_ccf27d {
     border-radius: 10px;
 }
 
-.wrapper__216eb {
+.wrapper_fea3ef {
     background-color: var(--background-primary);
 }
 
-.themedBackground__3a4c0 {
+.themedBackground_d0696b {
     background-color: var(--background-tertiary);
 }
 
-.layerContainer_a2fcaa {
+.layerContainer_cd0de5 {
     background-color: var(--background-active);
 }
 
@@ -135,20 +135,20 @@
     background-color: var(--background-tertiary);
 }
 
-.colorable__4f530.primaryDark_ec74a7, .colorable__4f530.primaryDark_ec74a7 .centerIcon_e3df23 {
+.colorable_ef18ee.primaryDark_ef18ee, .colorable_ef18ee.primaryDark_ef18ee .centerIcon_ef18ee {
     border-radius: 50%;
 }
 
-.menu__088f7 {
+.menu_d90b3d {
     background-color: var(--background-tertiary);
     border-radius: 10px;
 }
 
-.scroller__8f066 {
+.scroller_d90b3d {
     padding: 4px;
 }
 
-.labelContainer__4f869 {
+.labelContainer_d90b3d {
     padding-left: 8px;
     padding-right: 8px;
     padding-top: 1px;
@@ -156,27 +156,27 @@
     min-height: 28px;
 }
 
-.label__563c3 {
+.label_d90b3d {
     font-size: 13px;
 }
 
-.item__183e8 {
+.item_d90b3d {
     border-radius: 4px;
 }
 
-.colorDefault_e361cf {
+.colorDefault_d90b3d {
     color: white;
 }
 
-.scrollableContainer_ff917f {
+.scrollableContainer_d0696b {
     border-radius: 15px;
 }
 
-.root_a28985 {
+.root_f9a4c9 {
     border-radius: 15px;
 }
 
-.footer_e0b400 {
+.footer_f9a4c9 {
     border-radius: 0 0 15px 15px;
 }
 
@@ -193,18 +193,18 @@ textarea {
     font-family: var(--font), system-ui;
 }
 
-.option__91497:after {
+.option_b0286e:after {
     background: none
 }
 
-.option__91497:hover {
+.option_b0286e:hover {
     background-color: #4B4B4B;
 }
 
-.option__91497:hover:after {
+.option_b0286e:hover:after {
     background: none;
 }
 
-.theme-dark .searchAnswer__2ccaf, .theme-dark .searchFilter_dbda51 {
+.theme-dark .searchAnswer_b0fa94, .theme-dark .searchFilter_b0fa94 {
     background-color: #4B4B4B;
 }

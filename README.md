@@ -1,5 +1,5 @@
 # Orchis-Discord-Theme
-A Discord CSS style sheet for mods like BetterDiscord and Vencord that recreates the [Orchis Material Design GTK Theme](https://github.com/vinceliuice/Orchis-theme)
+A Discord CSS style sheet for mods like BetterDiscord and Vencord that recreates the [Orchis Material Design GTK Theme](https://github.com/vinceliuice/Orchis-theme). It also works well with the [Jasper GTK Theme](https://github.com/vinceliuice/Jasper-gtk-theme).
 
 Screenshots
 ---

@@ -1,7 +1,7 @@
 /**
  * @name Orchis Theme
  * @version 1.0.2
- * @author stonley890
+ * @author stonleyfx
  * @authorId 505833634134228992
  * @description A recreation of the Orchis GTK theme.
 */
@@ -123,7 +123,7 @@
     background-color: var(--background-primary);
 }
 
-.themedBackground_d0696b {
+.themedBackground_bdf0de {
     background-color: var(--background-tertiary);
 }
 
@@ -168,7 +168,7 @@
     color: white;
 }
 
-.scrollableContainer_d0696b {
+.scrollableContainer_bdf0de {
     border-radius: 15px;
 }
 
